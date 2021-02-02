@@ -1,0 +1,53 @@
+.alert {
+  padding: 3px;
+  background-color: #716B65;
+  color: white;
+  font-family: Helvetica, sans-serif;
+
+}
+
+.closebtn {
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-right: 10px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3;
+}
+
+.closebtn: hover {
+  color: #AAA9A7;
+}
+
+.banner {
+  background-color: #47433B;
+  padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: #A8A5A0;
+}
+
+.img {
+  margin-top: 45px;
+  margin-left: 350px;
+}
+
+.body {
+  background-color: blue;
+}
